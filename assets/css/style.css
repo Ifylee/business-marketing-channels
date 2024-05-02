@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header section */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -65,7 +65,7 @@ img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* classes*/
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +74,7 @@ img {
     background-size: cover;
     background-position: center;
 }
-
+/* floaters */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -117,7 +117,7 @@ img {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* footer section */
 .footer {
     padding: 30px;
     clear: both;
